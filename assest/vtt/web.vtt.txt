@@ -1,0 +1,10 @@
+WEBVTT
+
+0:00:03.456 --> 0:00:09.582
+Welcome to SimullTrans newest video,
+
+0:00:10.001 --> 0:00:11.032
+Here,we'll discuss ...
+
+NOTE
+Add information about subtitle formats
